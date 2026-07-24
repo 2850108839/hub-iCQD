@@ -2,7 +2,7 @@ import json
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="sk-lgtqzewsvgvyvjafqtxbrgasuxtpnjrapeymxmhstghyucbu",
+    api_key="sk-lgtqzewsvgvyvjaxxxabugasuxtpnjrapeymxmhstghyucbu",
     # 硅基流动官方兼容接口地址
     base_url="https://api.siliconflow.cn/v1"
 )
